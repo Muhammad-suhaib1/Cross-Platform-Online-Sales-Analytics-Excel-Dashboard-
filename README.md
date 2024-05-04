@@ -1,7 +1,7 @@
 # Cross-Platform-Online-Sales-Analytics-Excel-Dashboard
 ## Preview
 
-![DashBoard](https://github.com/Muhammad-suhaib1/SuperStore-Sales-Dashboard/blob/main/Resources/SuperStore%20Sales%20Dashboard.png)
+![DashBoard](https://github.com/Muhammad-suhaib1/Cross-Platform-Online-Sales-Analytics-Excel-Dashboard-/blob/main/Resources/Excel%20Dashboard.png)
 ## Overview
 This Excel project provides an in-depth analysis of an online store's operations, examining sales trends, customer demographics, and inventory management. Designed to empower business owners and managers, the project offers actionable insights into optimizing sales strategies, improving customer satisfaction, and managing stock levels efficiently.
 
